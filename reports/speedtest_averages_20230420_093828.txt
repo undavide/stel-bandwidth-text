@@ -1,0 +1,10 @@
+Timestamp: 20 April 2023, 09:38:28
+Total Runs: 5
+Download Speeds:
+  Average: 35.91 Mbps
+  Min:     26.234888 Mbps
+  Max:     41.959736 Mbps
+Upload Speeds:
+  Average: 2.10 Mbps
+  Min:     0.337912 Mbps
+  Max:     3.445968 Mbps

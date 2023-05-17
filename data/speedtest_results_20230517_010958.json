@@ -1,0 +1,219 @@
+[
+    {
+        "error": "Cannot write: "
+    },
+    {
+        "type": "result",
+        "timestamp": "2023-05-16T23:08:19Z",
+        "ping": {
+            "jitter": 213.820,
+            "latency": 141.784,
+            "low": 30.565,
+            "high": 586.927
+        },
+        "download": {
+            "bandwidth": 2375900,
+            "bytes": 28398206,
+            "elapsed": 15011,
+            "latency": {
+                "iqm": 310.150,
+                "low": 59.520,
+                "high": 1860.141,
+                "jitter": 77.753
+            }
+        },
+        "upload": {
+            "bandwidth": 135848,
+            "bytes": 1873987,
+            "elapsed": 14983,
+            "latency": {
+                "iqm": 676.261,
+                "low": 55.176,
+                "high": 2471.263,
+                "jitter": 89.846
+            }
+        },
+        "packetLoss": 4.946996466431095,
+        "isp": "Stel S.r.l.",
+        "interface": {
+            "internalIp": "192.168.1.4",
+            "name": "en0",
+            "macAddr": "F4:D4:88:5C:C0:7C",
+            "isVpn": false,
+            "externalIp": "89.32.186.230"
+        },
+        "server": {
+            "id": 4302,
+            "host": "speedtest.vodafone.it",
+            "port": 8080,
+            "name": "Vodafone IT",
+            "location": "Milan",
+            "country": "Italy",
+            "ip": "217.171.46.93"
+        },
+        "result": {
+            "id": "4760a7b2-8cff-450f-9548-8d2fd8493738",
+            "url": "https://www.speedtest.net/result/c/4760a7b2-8cff-450f-9548-8d2fd8493738",
+            "persisted": true
+        }
+    },
+    {
+        "type": "result",
+        "timestamp": "2023-05-16T23:08:50Z",
+        "ping": {
+            "jitter": 43.318,
+            "latency": 116.956,
+            "low": 44.806,
+            "high": 156.476
+        },
+        "download": {
+            "bandwidth": 2644561,
+            "bytes": 35004264,
+            "elapsed": 15001,
+            "latency": {
+                "iqm": 204.449,
+                "low": 44.186,
+                "high": 1406.800,
+                "jitter": 66.217
+            }
+        },
+        "upload": {
+            "bandwidth": 449814,
+            "bytes": 4628420,
+            "elapsed": 12007,
+            "latency": {
+                "iqm": 505.943,
+                "low": 158.378,
+                "high": 2940.321,
+                "jitter": 78.507
+            }
+        },
+        "packetLoss": 2.4822695035460991,
+        "isp": "Stel S.r.l.",
+        "interface": {
+            "internalIp": "192.168.1.4",
+            "name": "en0",
+            "macAddr": "F4:D4:88:5C:C0:7C",
+            "isVpn": false,
+            "externalIp": "89.32.186.230"
+        },
+        "server": {
+            "id": 4302,
+            "host": "speedtest.vodafone.it",
+            "port": 8080,
+            "name": "Vodafone IT",
+            "location": "Milan",
+            "country": "Italy",
+            "ip": "217.171.46.93"
+        },
+        "result": {
+            "id": "c281e30a-49a3-45f4-8468-e61a266c6591",
+            "url": "https://www.speedtest.net/result/c/c281e30a-49a3-45f4-8468-e61a266c6591",
+            "persisted": true
+        }
+    },
+    {
+        "type": "result",
+        "timestamp": "2023-05-16T23:09:23Z",
+        "ping": {
+            "jitter": 26.731,
+            "latency": 61.198,
+            "low": 16.794,
+            "high": 72.755
+        },
+        "download": {
+            "bandwidth": 2062849,
+            "bytes": 28929486,
+            "elapsed": 15016,
+            "latency": {
+                "iqm": 255.785,
+                "low": 42.462,
+                "high": 2158.940,
+                "jitter": 68.001
+            }
+        },
+        "upload": {
+            "bandwidth": 470823,
+            "bytes": 6170305,
+            "elapsed": 14984,
+            "latency": {
+                "iqm": 448.370,
+                "low": 63.410,
+                "high": 2629.093,
+                "jitter": 86.558
+            }
+        },
+        "packetLoss": 0,
+        "isp": "Stel S.r.l.",
+        "interface": {
+            "internalIp": "192.168.1.4",
+            "name": "en0",
+            "macAddr": "F4:D4:88:5C:C0:7C",
+            "isVpn": false,
+            "externalIp": "89.32.186.230"
+        },
+        "server": {
+            "id": 4302,
+            "host": "speedtest.vodafone.it",
+            "port": 8080,
+            "name": "Vodafone IT",
+            "location": "Milan",
+            "country": "Italy",
+            "ip": "217.171.46.93"
+        },
+        "result": {
+            "id": "70465385-c705-43e2-8a49-ea2b4270c062",
+            "url": "https://www.speedtest.net/result/c/70465385-c705-43e2-8a49-ea2b4270c062",
+            "persisted": true
+        }
+    },
+    {
+        "type": "result",
+        "timestamp": "2023-05-16T23:09:58Z",
+        "ping": {
+            "jitter": 56.638,
+            "latency": 86.879,
+            "low": 54.955,
+            "high": 190.007
+        },
+        "download": {
+            "bandwidth": 2038070,
+            "bytes": 19470824,
+            "elapsed": 11301,
+            "latency": {
+                "iqm": 228.740,
+                "low": 38.758,
+                "high": 995.681,
+                "jitter": 72.595
+            }
+        },
+        "upload": {
+            "bandwidth": 337427,
+            "bytes": 4297528,
+            "elapsed": 15002
+        },
+        "packetLoss": 4.716981132075472,
+        "isp": "Stel S.r.l.",
+        "interface": {
+            "internalIp": "192.168.1.4",
+            "name": "en0",
+            "macAddr": "F4:D4:88:5C:C0:7C",
+            "isVpn": false,
+            "externalIp": "89.32.186.230"
+        },
+        "server": {
+            "id": 4302,
+            "host": "speedtest.vodafone.it",
+            "port": 8080,
+            "name": "Vodafone IT",
+            "location": "Milan",
+            "country": "Italy",
+            "ip": "217.171.46.93"
+        },
+        "result": {
+            "id": "18520af8-6058-4794-8c71-7c71bb0824b0",
+            "url": "https://www.speedtest.net/result/c/18520af8-6058-4794-8c71-7c71bb0824b0",
+            "persisted": true
+        }
+    }
+]
